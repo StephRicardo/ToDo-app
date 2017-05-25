@@ -1,0 +1,48 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+
+body {
+	background-color: #DAF7A6;  
+	color: #525D3E;
+}
+
+table {
+	border-radius: 2%;
+	background-color: white;
+}
+
+#todo_item_description {
+	color: #525D3E;
+	border: 0px;
+}
+
+input[type="submit"] {
+	color: #525D3E;
+	background-color: #DAF7A6;
+	border: 0px;
+	text-decoration: underline;
+}
+
+input[type="submit"]:hover {
+	color: #EDFBD2;
+	background-color: #525D3E;
+	border: 0px;
+}
+
+a {
+  color: #525D3E;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EDFBD2;
+  background-color: #525D3E;
+  text-decoration: none;
+}
+
+#box {
+	color: #525D3E;
+	background-color: white;
+}
